@@ -14,10 +14,10 @@ The idea here is that a person should be able to read your poster from several f
 * References and acknowledgements: 20pt
 
 ## Logos and Funding Statements
-If you have authors from multiple institutions, they often have their own funding statements and logos that must go on the work. Some institutions even require several logos, so do fix your poster layout before you understand how much space these elements require. Luckily, the text of funding statements can be small. Sadly, logos must be reasonably visible.
+If you have authors from multiple institutions, they often have their own funding statements and logos that must go on the work. Some institutions even require several logos, so don't finalize your poster layout before you understand how much space these elements require. Luckily, the text of funding statements can be small. Sadly, logos must be reasonably visible.
 
 ## Use Short Sentences for Section Headings
-Rather than apply typical section headings, like "Introduction," "Conclusions," "Methods," etc., use that space to summarize what the section discusses. This makes your poster more efficient to glance over.
+Rather than apply typical section headings, like "Introduction," "Conclusions," "Methods," etc., you can use that space to summarize what the section discusses. This makes your poster more efficient to glance over, and provides a good narrative if you're not there to present it.
 
 ## Your Poster Does Not Stand Alone
 Usually, you should not expect someone to walk up to your poster and get the full story without speaking to you. (This should be confirmed with your poster chair. Sometimes posters are judged for awards without the presenters present.) Instead, the poster is really a conversation piece that you can use to more fully explain your contribution. If you would like, you can include a link to (or a pile of printed copies of) an extended abstract that is the short-paper version of your poster. One single- or double-sided page should be sufficient.
